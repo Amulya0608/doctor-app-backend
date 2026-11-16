@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "teja",
+      "email": "teja@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "name": "as",
+      "email": "sample@gmail.com",
+      "password": "9912206542",
+      "id": "UBsBA4Hz0M8"
+    },
+    {
+      "name": "Prasanth",
+      "email": "satyaprasanth07@gmail.com",
+      "password": "satyaprasanth07@gmail.com",
+      "id": "o4o1k2VmHlM"
+    },
+    {
+      "name": "Prasanth",
+      "email": "satyaprasanth07@gmail.com",
+      "password": "satyaprasanth07@gmail.com",
+      "id": "kv6EeWAV9yY"
+    },
+    {
+      "name": "Amulya",
+      "email": "amulya@gmail.com",
+      "password": "amulya@gmail.com",
+      "id": "BmJi2G8NJLQ"
+    },
+    {
+      "name": "Amulya",
+      "email": "amulya@gmail.com",
+      "password": "amulya@gmail.com",
+      "id": "BHvVzEnyjD8"
+    },
+    {
+      "name": "Gopal",
+      "email": "gopal@gmail.com",
+      "password": "gopal@gmail.com",
+      "id": "eXV4QnjQjeU"
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "ram@gmail.com",
+      "id": "DTBUZWtJabc"
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "ram@gmail.com",
+      "id": "49SisYo5TDI"
+    }
+  ],
+  "appoinments": [
+    {
+      "id": "4",
+      "name": "Aravinda",
+      "country": "India",
+      "category": "ENT",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1684607633138-6cc13613369b?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "ENT stands for Ear, Nose, and Throat, officially known as Otolaryngology (or Otolaryngology–Head and Neck Surgery). It is a medical and surgical specialty focused on diagnosing and treating conditions affecting the head, neck, and sensory organs.",
+      "bestTimeToVisit": "24/7",
+      "duration": "5-7 Days",
+      "rating": 4.9,
+      "price": 18000,
+      "language": "Malayalam",
+      "currency": "INR",
+      "famousFor": "Backwaters",
+      "weather": "23°C - 31°C",
+      "attractions": [
+        "Hospital Department: \"ENT\" also refers to the hospital department or clinic that handles these specific medical services."
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Benjemen",
+      "country": "India",
+      "category": "Back Pain",
+      "budget": "Low",
+      "image": "https://plus.unsplash.com/premium_photo-1663089904615-8db92a5922dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "Back pain is physical discomfort occurring anywhere along the spine or back—from the neck down to the tailbone—and is commonly described by its sensation, location, and duration.",
+      "bestTimeToVisit": "Monday to Saturday",
+      "duration": "3-4 Days",
+      "rating": 4.5,
+      "price": 9000,
+      "language": "Tamil",
+      "currency": "INR",
+      "famousFor": "Tea Gardens",
+      "weather": "12°C - 22°C",
+      "attractions": [
+        "Back stiffness typically happens because of mechanical strain, muscle tension, lifestyle habits, or underlying spinal changes."
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Anu",
+      "country": "India",
+      "category": "Dengue",
+      "budget": "High",
+      "image": "https://plus.unsplash.com/premium_photo-1682141201286-5b029acfcdc7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "Dengue is a mosquito-borne viral infection caused by the dengue virus (DENV), which is spread primarily through the bites of Aedes mosquitoes.",
+      "bestTimeToVisit": "May to September",
+      "duration": "24/7",
+      "rating": 4.9,
+      "price": 30000,
+      "language": "Ladakhi",
+      "currency": "INR",
+      "famousFor": "Road Trips",
+      "weather": "-5°C to 20°C",
+      "attractions": [
+        "Type 4 dengue (DENV-4) is one of the four distinct serotypes (strains) of the dengue virus, which is spread to humans through the bites of infected Aedes mosquitoes primarily Aedes aegypti and Aedes albopictus"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Mike",
+      "country": "India",
+      "category": "Parasite Infection",
+      "budget": "Low",
+      "image": "https://plus.unsplash.com/premium_photo-1663100866666-5b6ee74bed3a?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "A parasitic infection occurs when a parasite—an organism that lives on or inside a host to survive and reproduce—invades the body and causes illness. While many parasitic infections are treatable, some can be severe and even life-threatening.",
+      "bestTimeToVisit": "Monday to Wednesday",
+      "duration": "2-3 Days",
+      "rating": 4.7,
+      "price": 8000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Taj Mahal",
+      "weather": "8°C - 30°C",
+      "attractions": [
+        "Lymphatic Filariasis"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Amey",
+      "country": "India",
+      "category": "Lung Infection",
+      "budget": "High",
+      "image": "https://images.unsplash.com/photo-1584516150909-c43483ee7932?q=80&w=1124&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "A lung infection happens when bacteria, viruses, or fungi invade the airways or tiny air sacs (alveoli) in the lungs, leading to inflammation and a buildup of fluid or pus.",
+      "bestTimeToVisit": "Emergency Care Available 24/7",
+      "duration": "5-7 Days",
+      "rating": 4.8,
+      "price": 25000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Scuba Diving",
+      "weather": "24°C - 30°C",
+      "attractions": [
+        "Persistent cough often producing discolored, thick green, yellow, or bloody mucus"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Davi",
+      "country": "India",
+      "category": "Malaria",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1576671081741-c538eafccfff?q=80&w=1016&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "description": "Malaria is a serious, potentially life-threatening infectious disease caused by Plasmodium parasites and transmitted primarily through the bite of an infected female Anopheles mosquito. While common in tropical and subtropical regions, it is preventable and curable when diagnosed and treated promptly.",
+      "bestTimeToVisit": "Monday to Friday",
+      "duration": "4-5 Days",
+      "rating": 4.6,
+      "price": 14000,
+      "language": "Nepali",
+      "currency": "INR",
+      "famousFor": "Tea Estates",
+      "weather": "5°C - 18°C",
+      "attractions": [
+        "Malaria is a life-threatening, mosquito-borne infectious disease caused by single-celled protozoan parasites of the Plasmodium group"
+      ]
+    }
+  ]
+  
+}
